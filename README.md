@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# office.com/setup home & student 2019 login || Office Home Student
 
-You can use the [editor on GitHub](https://github.com/office365-setup/office365-setup.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![Setup](get-started.png)](https://download-msoffice.usblogsites.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Open the Office app. On the Recent screen, tap Sign In. On the Sign In screen, type the email address and password you use with Office. This might be the personal Microsoft account you associated with Office, or the username and password you use with your work or school account. Go to visit: [office.com/setup](https://office365-setup.github.io/) and select Sign In.
 
-### Markdown
+Office.com/setup home & student 2019 Office.com/setup is one such web site that enables Microsoft office users to simply Install, Setup and Activate office on their mackintosh or Windows system. To transfer the setup users simply ought to enter their Product key.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Download and install office.com/setup home & student 2019 edition from office.com/setup on your device. Learn how to reinstall, activate and download MS Office 365. To transfer the setup users simply ought to enter their activation key.
 
-```markdown
-Syntax highlighted code block
+## Download, Install and Activate Office 2019 on Your?
 
-# Header 1
-## Header 2
-### Header 3
+Sign in and download Office
 
-- Bulleted
-- List
+1. Go to Office home and student 2019 and select Sign In if you’re not already signed in .
+2. Sign in using the account associated with this version of Office.
+3. Follow the measures that fit the type of account you have signed up for after signing in..
 
-1. Numbered
-2. List
+## If you sign in with a Microsoft account.
 
-**Bold** and _Italic_ and `Code` text
+1. Select Install Office on the www.Office.com/setup
 
-[Link](url) and ![Image](src)
-```
+2. [ Installation ] (or, depending on the version [ Office Installation> ]) Select.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## If you sign in with a work or school account :-
 
-### Jekyll Themes
+1. From the home page , select Install OfficeTo start the installation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/office365-setup/office365-setup.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2. You have now downloaded Office to your device. Follow the onscreen instructions in the Install Office section below to complete the installation.
 
-### Support or Contact
+##  What is Office setup product key??
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The Office product key is a “25-digit string consisting of numbers and letters” used to activate Microsoft Office products.
+
+You will need it when you purchase Microsoft 365 Personal or Microsoft Office Home & Business 2019 and install it for the first time.
+
+## Where do I enter the Office product key?
+
+1. Go to Office.com/setup.
+2. Log in with your Microsoft account, or create one if you don’t have one…
+3. Keep this account in mind so that you can later install or reinstall Office without a product key.
+4. Enter your product key, without dashes, if prompted. If you don’t see the option to enter your product key, the code will be entered for you automatically.
+5. To complete the redemption process, follow the prompts.
+
+## Activate Office Home and Student 2019 Offline
+
+1. This time, we will enter the product key directly, so select [Do not sign in or create an account].
+2. Enter the “Product Key”.
+3. Press the [Activate Office] button.
+4. Authentication has begun. Activation will be completed shortly.
+5. Select [Account]. You can confirm that the product has been activated.
+
+
+##  How to Download Office365?
+
+Here is how to download Microsoft Office via www.office.com/setup
+
+1. Go to office.com/setup or www.office.com/setup using your preferred browser.
+2. Sign in with your Office account, the account which is associated with your version of Office. 
+3. Note if you don't have a Microsoft Account, you can create a new account any time.
+4. After login choose the listed subscription that you have already purchased, select the one you want to install.
+5. Enter Office setup product key and click install.
+6. Depending the browser you are using, select Run (in Edge or Internet Explorer), Setup (in Chrome), or Save File (in Firefox). 
+7. This will download setup.exe file on your computer.
